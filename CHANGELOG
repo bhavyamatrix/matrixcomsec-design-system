@@ -1,0 +1,33 @@
+# Matrix Comsec Design System Changelog
+
+---
+
+## v1.0.0 - Initial Release
+**Release Date:** 06 Aug 2026
+**Author:** Bhavya Mevada
+
+### Added
+- Initial Button Component
+- Primary Variant
+- Auto Layout
+- Radius 500
+- Initial Design Tokens
+
+---
+
+## v1.1.0 - Button Update
+**Release Date:** 06 Aug 2026
+**Author:** Bhavya Mevada
+
+### Changed
+- Button Height
+  - Old: 43px
+  - New: 60px
+
+### Reason
+Improved touch target as per accessibility guideline.
+
+### Figma Library
+Published Library Version: **1.1.0**
+
+---
